@@ -1,0 +1,403 @@
+{
+ "D1": {
+  "log_entries": 1932,
+  "log_errors": 0,
+  "files_per_freq": {
+   "40": 161,
+   "60": 161,
+   "80": 161,
+   "100": 161,
+   "120": 161,
+   "140": 161,
+   "160": 161,
+   "180": 161,
+   "200": 161,
+   "220": 161,
+   "240": 161,
+   "260": 161
+  },
+  "planned_per_freq": 161,
+  "missing_per_freq": {
+   "40": [],
+   "60": [],
+   "80": [],
+   "100": [],
+   "120": [],
+   "140": [],
+   "160": [],
+   "180": [],
+   "200": [],
+   "220": [],
+   "240": [],
+   "260": []
+  },
+  "timestamps_common_to_all_12": 161,
+  "nan_total": 0,
+  "inf_total": 0,
+  "md5_duplicates": 0,
+  "absmax_raw_V": {
+   "min": 0.1933460680238642,
+   "median": 0.5212853698933333,
+   "max": 2.007513600785661
+  },
+  "n_samples_raw": [
+   13108
+  ],
+  "n_paths": [
+   66
+  ],
+  "channels_identical": true,
+  "T_plate_mean_C": {
+   "min": 21.024,
+   "max": 60.917,
+   "n_measurements": 161
+  },
+  "T_sensor_difference_C": {
+   "median_abs": 0.11500000000000199,
+   "p95_abs": 0.24099999999999966,
+   "max_abs": 0.28200000000000003
+  },
+  "T_plate_minus_setpoint_C": {
+   "median": 1.009999999999998,
+   "p95_abs": 1.2689999999999984
+  },
+  "T_direction_changes": 3,
+  "T_spacing_C": {
+   "median_abs_step_sorted": 0.22300000000000253
+  },
+  "T_spread_within_timestamp_C": 0.24150000000000205
+ },
+ "D1_overlap": {
+  "pilot_subset_correlation": {
+   "median": 0.9997560777667444,
+   "min": 0.9997265614938229,
+   "max_T_mismatch_C": 0.0
+  },
+  "A0_T4_T10": {
+   "T_ref_C": 21.024,
+   "group_velocity_ref_m_s": 1215.6394126090172,
+   "tof_slope_us_per_C": 0.2810369173656329,
+   "velocity_slope_m_s_per_C": -0.943887512983198,
+   "authors": {
+    "velocity_20C_m_s": 1166,
+    "velocity_60C_m_s": 1133,
+    "slope_m_s_per_C": -0.825,
+    "tof_slope_us_per_C": 0.2749
+   }
+  },
+  "global_stretch_pair1_40k": {
+   "c_per_C": -0.0004741849431844169,
+   "pilot_c_per_C": -0.00049
+  }
+ },
+ "D3": {
+  "log_entries_unique_raw": 1495,
+  "errors_remaining": 0,
+  "nan_total": 0,
+  "inf_total": 0,
+  "md5_duplicates": 3,
+  "paths_per_file": [
+   252
+  ],
+  "samples_per_file": [
+   2000
+  ],
+  "coupons": {
+   "L1_S11_F": {
+    "files": 145,
+    "cycle_levels": 21,
+    "cycles_max": 227000.0,
+    "conditions": {
+     "Baseline": 1,
+     "loaded": 31,
+     "clamped": 9,
+     "traction free": 4,
+     "Loaded": 27,
+     "Clamped": 35,
+     "Traction free": 14,
+     "Traction Free": 24
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 29
+   },
+   "L1_S12_F": {
+    "files": 109,
+    "cycle_levels": 17,
+    "cycles_max": 100000.0,
+    "conditions": {
+     "Traction Free": 30,
+     "Clamped": 29,
+     "Loaded": 49,
+     "Traction Free ": 1
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 17
+   },
+   "L1_S18_F": {
+    "files": 180,
+    "cycle_levels": 63,
+    "cycles_max": 1650000.0,
+    "conditions": {
+     "Traction Free": 37,
+     "Loaded": 94,
+     "Clamped": 43,
+     "Traction free": 5,
+     "traction free": 1
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 16
+   },
+   "L1_S19_F": {
+    "files": 82,
+    "cycle_levels": 14,
+    "cycles_max": 125000.0,
+    "conditions": {
+     "Traction Free": 32,
+     "Loaded": 26,
+     "Clamped": 24
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 8
+   },
+   "L2_S11_F": {
+    "files": 128,
+    "cycle_levels": 20,
+    "cycles_max": 207000.0,
+    "conditions": {
+     "Clamped": 36,
+     "Loaded": 46,
+     "Traction Free": 34,
+     "loaded": 12
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 17
+   },
+   "L2_S17_F": {
+    "files": 108,
+    "cycle_levels": 38,
+    "cycles_max": 900000.0,
+    "conditions": {
+     "Loaded": 29,
+     "Clamped": 45,
+     "Traction free": 19,
+     "Traction Free": 15
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 19
+   },
+   "L2_S18_F": {
+    "files": 110,
+    "cycle_levels": 35,
+    "cycles_max": 1250000.0,
+    "conditions": {
+     "Traction Free": 25,
+     "Loaded": 51,
+     "Clamped": 27,
+     "Traction free": 5,
+     "Clamaped": 1,
+     "Loaeded": 1
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 19
+   },
+   "L2_S20_F": {
+    "files": 107,
+    "cycle_levels": 35,
+    "cycles_max": 1250000.0,
+    "conditions": {
+     "Loaded": 50,
+     "Clamped": 34,
+     "Traction Free": 21,
+     "Traction free": 2
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 14
+   },
+   "L3_S11_F": {
+    "files": 122,
+    "cycle_levels": 18,
+    "cycles_max": 150000.0,
+    "conditions": {
+     "Traction Free": 35,
+     "Clamped": 32,
+     "Loaded": 55
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 16
+   },
+   "L3_S13_F": {
+    "files": 147,
+    "cycle_levels": 21,
+    "cycles_max": 300000.0,
+    "conditions": {
+     "baseline": 1,
+     "Clamped": 41,
+     "Traction Free": 42,
+     "Loaded": 62,
+     "Traction  Free": 1
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 32
+   },
+   "L3_S18_F": {
+    "files": 134,
+    "cycle_levels": 41,
+    "cycles_max": 895000.0,
+    "conditions": {
+     "Traction Free": 32,
+     "Loaded": 47,
+     "Clamped": 49,
+     "Traction free": 6
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 17
+   },
+   "L3_S20_F": {
+    "files": 123,
+    "cycle_levels": 38,
+    "cycles_max": 750000.0,
+    "conditions": {
+     "Traction Free": 17,
+     "Clamped": 40,
+     "Loaded": 52,
+     "Traction free": 14
+    },
+    "freqs_kHz": [
+     150,
+     200,
+     250,
+     300,
+     350,
+     400,
+     450
+    ],
+    "fs_Hz": [
+     1200000
+    ],
+    "files_per_level_max": 18
+   }
+  },
+  "total_files": 1495
+ }
+}

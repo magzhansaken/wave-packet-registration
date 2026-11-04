@@ -1,0 +1,222 @@
+{
+ "per_freq": {
+  "40": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.556,
+    60.417
+   ],
+   "T_range_dev": [
+    21.024,
+    60.917
+   ],
+   "ok": true
+  },
+  "60": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.5965,
+    60.408500000000004
+   ],
+   "T_range_dev": [
+    20.978,
+    60.909
+   ],
+   "ok": true
+  },
+  "80": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.539,
+    60.430499999999995
+   ],
+   "T_range_dev": [
+    21.029,
+    60.897000000000006
+   ],
+   "ok": true
+  },
+  "100": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.567999999999998,
+    60.413
+   ],
+   "T_range_dev": [
+    20.9665,
+    60.8935
+   ],
+   "ok": true
+  },
+  "120": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.5955,
+    60.417
+   ],
+   "T_range_dev": [
+    21.0305,
+    60.8895
+   ],
+   "ok": true
+  },
+  "140": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.5385,
+    60.401
+   ],
+   "T_range_dev": [
+    21.0305,
+    60.8865
+   ],
+   "ok": true
+  },
+  "160": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.555,
+    60.409499999999994
+   ],
+   "T_range_dev": [
+    21.0025,
+    60.887
+   ],
+   "ok": true
+  },
+  "180": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.4585,
+    60.4005
+   ],
+   "T_range_dev": [
+    21.003999999999998,
+    60.8795
+   ],
+   "ok": true
+  },
+  "200": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.5385,
+    60.3815
+   ],
+   "T_range_dev": [
+    20.954500000000003,
+    60.875
+   ],
+   "ok": true
+  },
+  "220": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.5135,
+    60.387
+   ],
+   "T_range_dev": [
+    20.969,
+    60.8565
+   ],
+   "ok": true
+  },
+  "240": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.515,
+    60.375
+   ],
+   "T_range_dev": [
+    21.014499999999998,
+    60.866
+   ],
+   "ok": true
+  },
+  "260": {
+   "n_reserve": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_dev": 0,
+   "md5_overlap_with_dev": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_reserve": [
+    20.537,
+    60.367000000000004
+   ],
+   "T_range_dev": [
+    20.951,
+    60.8765
+   ],
+   "ok": true
+  }
+ },
+ "ok": true,
+ "same_stamps_all_freqs": true
+}

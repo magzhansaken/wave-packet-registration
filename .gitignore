@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/
+figures/*.png
+figures/*.pdf
+results/*.jsonl

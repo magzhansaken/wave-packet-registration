@@ -1,0 +1,270 @@
+{
+ "per_freq": {
+  "40": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.514499999999998,
+    59.9135
+   ],
+   "T_range_udam": [
+    20.556,
+    60.917
+   ],
+   "ok": true
+  },
+  "60": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.488,
+    59.9105
+   ],
+   "T_range_udam": [
+    20.5965,
+    60.909
+   ],
+   "ok": true
+  },
+  "80": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.4785,
+    59.916
+   ],
+   "T_range_udam": [
+    20.539,
+    60.897000000000006
+   ],
+   "ok": true
+  },
+  "100": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.5185,
+    59.9065
+   ],
+   "T_range_udam": [
+    20.567999999999998,
+    60.8935
+   ],
+   "ok": true
+  },
+  "120": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.5225,
+    59.9255
+   ],
+   "T_range_udam": [
+    20.5955,
+    60.8895
+   ],
+   "ok": true
+  },
+  "140": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.505,
+    59.917
+   ],
+   "T_range_udam": [
+    20.5385,
+    60.8865
+   ],
+   "ok": true
+  },
+  "160": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.549,
+    59.920500000000004
+   ],
+   "T_range_udam": [
+    20.555,
+    60.887
+   ],
+   "ok": true
+  },
+  "180": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.516,
+    59.943
+   ],
+   "T_range_udam": [
+    20.4585,
+    60.8795
+   ],
+   "ok": true
+  },
+  "200": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.546,
+    59.941
+   ],
+   "T_range_udam": [
+    20.5385,
+    60.875
+   ],
+   "ok": true
+  },
+  "220": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.503999999999998,
+    59.952
+   ],
+   "T_range_udam": [
+    20.5135,
+    60.8565
+   ],
+   "ok": true
+  },
+  "240": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.5165,
+    59.962
+   ],
+   "T_range_udam": [
+    20.515,
+    60.866
+   ],
+   "ok": true
+  },
+  "260": {
+   "n_dam": 161,
+   "missing_vs_plan": [],
+   "extra_vs_plan": [],
+   "stamp_overlap_with_udam": 0,
+   "md5_overlap_with_udam": 0,
+   "md5_duplicates_within": 0,
+   "nonfinite": 0,
+   "T_range_dam": [
+    20.525,
+    59.9395
+   ],
+   "T_range_udam": [
+    20.537,
+    60.8765
+   ],
+   "ok": true
+  }
+ },
+ "ok": true,
+ "same_stamps_all_freqs": true,
+ "n_direction_changes": 1,
+ "turning_T": [
+  59.91
+ ],
+ "splits": {
+  "S1_le30_ge35": {
+   "n_tr": 40,
+   "n_te": 101,
+   "n_val": 10,
+   "n_inner": 20,
+   "included": true
+  },
+  "S2_le35_ge40": {
+   "n_tr": 60,
+   "n_te": 81,
+   "n_val": 16,
+   "n_inner": 34,
+   "included": true
+  },
+  "S3_le40_ge45": {
+   "n_tr": 80,
+   "n_te": 61,
+   "n_val": 20,
+   "n_inner": 50,
+   "included": true
+  },
+  "S4_ge40_le35": {
+   "n_tr": 81,
+   "n_te": 60,
+   "n_val": 20,
+   "n_inner": 51,
+   "included": true
+  },
+  "S5_ge45_le40": {
+   "n_tr": 61,
+   "n_te": 80,
+   "n_val": 16,
+   "n_inner": 35,
+   "included": true
+  },
+  "S6_ge50_le45": {
+   "n_tr": 41,
+   "n_te": 100,
+   "n_val": 11,
+   "n_inner": 19,
+   "included": true
+  }
+ }
+}

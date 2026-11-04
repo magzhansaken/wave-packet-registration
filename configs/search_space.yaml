@@ -1,0 +1,14 @@
+# Tuning grids (fixed before the first full run of E2, 03.11.2026; revised once before that run, see docs/PROTOCOL.md). Selection: median validation error over the 12 fixed
+# paths of the (split, frequency) — validation block = outer 25 % of the training range on the test side; models fitted
+# on the inner part, which ends 2.5 C before the validation block. The test block is never used.
+copy:    {}
+knn:     {k: [1, 2, 3, 5]}
+gp:      {n_pca: [5, 10, 20], kernel: [rbf, matern]}
+bss:     {}
+bss_gp:  {n_pca: [5, 10, 20]}
+br:      {}                                                   # ablation: lam = 0, wf = 1, no residual
+br_gp:   {tau_C2: [0.0, 1000.0, .inf], wf: [1.0, 1.5], resid: [none, gp]}   # 12 configurations; tau = prior precision of the window laws
+# neural (12-path subset, 3 seeds): same validation protocol, checkpoint by validation loss
+mfbno:   {lr: [1.0e-3, 3.0e-4], width: [64, 128]}            # Bayesian DeepONet residual (Flipout, prior N(0,1), KL 1e-5)
+br_bnn:  {lr: [1.0e-3, 3.0e-4], width: [64, 128]}            # the same network in registered time (ablation)
+fvae:    {}                                                   # authors' hyperparameters (latent 2, KL 0.05, lr 5e-3, 100 epochs, batch 20)
