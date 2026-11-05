@@ -9,7 +9,7 @@ from figures.style import plt, C, W_FULL
 R = os.path.join(os.path.dirname(__file__), "..", "results")
 tm = json.load(open(os.path.join(R, "timing_eval.json"))); ne = json.load(open(os.path.join(R, "neural_eval.json")))
 pre = tm["prep_cpu_s_per_unit"]
-M = [("copy", "copy", C["muted"], "o"), ("knn", "kNN", C["muted"], "s"), ("gp", "GP", C["muted"], "^"),
+M = [("copy", "copy", C["muted"], "o"), ("knn", "$k$ nearest", C["muted"], "s"), ("gp", "GP", C["muted"], "^"),
      ("bss", "stretch", C["base"], "o"), ("bss_tr", "tracked stretch", C["base"], "s"),
      ("bss_gp", "stretch + GP", C["base"], "^"), ("bss_tr_gp", "tracked stretch + GP", C["base"], "D"),
      ("br", "registration", C["ours"], "s"), ("br_gp", "registration + GP (ours)", C["ours"], "o"),

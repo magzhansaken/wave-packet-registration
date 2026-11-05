@@ -106,7 +106,7 @@ The full set of experiments takes many CPU hours; the neural baselines take most
 | Propositions 1–2, Lemma 1 | `experiments/theory_mc.py`, `theory_mc_impl.py`, `lemma_check.py` | `theory_mc*.json`, `lemma_check.json` |
 | Table A1 (MF-B-NO on its authors' data) | `baselines/mfbno_authors/run_repro_val.py`, `experiments/mfbno_repro_eval.py` | `mfbno_repro_eval.json` |
 | Figure A1, Table A2 (solver on exact solutions, cost of the steps) | `experiments/e1_numerics.py`, `figures/fig_solver_exact.py` | `e1_numerics.json` |
-| Tables A3–A4 (configurations, protocol) | `configs/search_space.yaml`, `docs/PROTOCOL.md` | `config_choice.json` |
+| Tables S1–S2 of the Supplementary Materials (configurations, protocol) | `configs/search_space.yaml`, `docs/PROTOCOL.md` | `config_choice.json` |
 
 ## Repository layout
 ```
@@ -142,7 +142,7 @@ Seeds:
 * f-VAE: 0, 1, 2;
 * bootstrap: generator seed set in `experiments/analyze.py`.
 
-All other methods are deterministic. The tuning grids are in `configs/search_space.yaml` and in Appendix D of the
+All other methods are deterministic. The tuning grids are in `configs/search_space.yaml` and in Table S1 of the Supplementary Materials of the
 article.
 
 ## Citation
